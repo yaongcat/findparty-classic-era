@@ -1,0 +1,11 @@
+## Interface: 11307
+## Title: FindParty
+## Title-koKR: FindParty - 파티 찾기 도우미
+## Notes: Filtering party channel.
+## Notes-koKR: 파티찾기 채널을 필터링해서 보여줍니다.
+## Author: Yaong - WoW Classic Era Whitemain, US / 엘나르핌 - WoW Classic / 법사세린 - Azshara, Korea / 일분일초 - Stormrage, Korea / 아리보리 - Azshara, Korea
+## Version: 1.0 Classic-Era-fanfix
+## SavedVariables: FP_Version, FP_Options, FP_Filter_Dungeon, FP_Minimap_Save, FP_Position_Save
+## SavedVariablesPerCharacter: FP_UserDefinedWhMsg, FP_UserDefinedAdMsg, FP_UserDefineIgnoreMsg
+
+FindParty.xml
